@@ -1,0 +1,10 @@
+Comandos git
+
+git status
+git add .
+git commit -m "OBS"
+
+*****Envia para o github****
+git push origin master
+*****Baixa do github*****
+git pull origin master
