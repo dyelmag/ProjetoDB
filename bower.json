@@ -1,0 +1,10 @@
+{
+  "name": "Magdyel",
+  "description": "Projeto de Banco de Dados",
+  "main": "app.js",
+  "authors": [
+    "Magdyel <dyelmag@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dyelmag/ProjetoDB"
+}

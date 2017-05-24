@@ -1,0 +1,7 @@
+{
+	"name": "projetodb",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Projeto de Banco de Dados",
+	"main": "app.js"
+}
